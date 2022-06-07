@@ -1,1 +1,1 @@
-# group-stude-project
+# group-study-project
